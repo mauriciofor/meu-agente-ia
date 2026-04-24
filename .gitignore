@@ -1,0 +1,44 @@
+# Bancos de dados e temporários
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+*.json
+*.txt
+*.pdf
+*.mp4
+*.vrm
+*.ico
+*.spec
+
+# Pastas de build e ideias
+.idea/
+.gradio/
+build/
+dist/
+worktrees/
+__pycache__/
+
+# Executáveis e scripts diversos
+*.exe
+*.vbs
+*.ps1
+*.bat
+*.spec
+
+# Arquivos de projeto específicos que não são seu ORB principal
+MeuAgenteIA*
+SuperAgente*
+Financas*
+FutebolBot*
+teste*
+codigo_gerado.py
+extrair_imr.py
+assistente_mauricio.py
+chave.py
+app_financeiro.py
+futebol_bot.py
+movimentacoes_caixa.json
+historico*.json
+caixa_diario.json
