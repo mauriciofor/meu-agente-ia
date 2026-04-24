@@ -42,3 +42,17 @@ futebol_bot.py
 movimentacoes_caixa.json
 historico*.json
 caixa_diario.json
+# Adicione estas linhas ao final do seu .gitignore
+testador.py
+interface_pdf_excel.py
+.doc
+.env
+BancoDados/
+Vita.html
+avatar.html
+corrigir_agente.py
+"meu primeiro projeto .py"
+produção.py
+python code_corrector.py
+servidor_robo_multiapis.backup.py
+test1.py
